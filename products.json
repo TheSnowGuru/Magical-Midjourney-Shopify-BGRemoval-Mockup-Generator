@@ -1,0 +1,13 @@
+{
+  "Apparel👕": {
+    "Men🕺": {
+      "T-Shirt": ["m-t-shirt.jpg", 74, ["Men Apparel","T-Shirts"]]
+    },
+    "Women💃": {
+      "Fit T-Shirt": ["wf-t-shirt.jpg", 5, ["Women Apparel","T-Shirts", "Fit T-Shirt"]]
+    },
+    "Kids & Youth 🪁": {
+      "Boy T Shirt👕": ["kid-tshirt.jpg", 99, ["Kids & Youth Apparel","T-Shirts", "boys"]]
+    }
+  }
+}
